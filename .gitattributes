@@ -1,0 +1,2 @@
+sft_checkpoints_ru_lora/** filter=lfs diff=lfs merge=lfs -text
+vector_index_ru/**       filter=lfs diff=lfs merge=lfs -text
